@@ -8,4 +8,4 @@ This is a quick node project template for demoing Codespaces. It is based on the
 - Uma julia so pq ngm aguenta
 
 - [x] julia feia
-- [] Luna linda
+- [ ] Luna linda
